@@ -86,6 +86,7 @@ Mini Project-Basic Git Commands
 
 ## 3. Created a New Pull Request: 
 ![PullRequestforTom](./img/pull%20request%20by%20Tom.png)
+
 ![Initiated](./img/Pull%20request%20initiated.png)
 
 ## 4. Review Tom's Changes: 
