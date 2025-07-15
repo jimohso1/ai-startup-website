@@ -119,7 +119,7 @@ Mini Project-Basic Git Commands
 ![](./img/Pull%20request%20merged%20successfully%20for%20Jerry.png)
 
 ## Reviewing And Merging Jerry's Pull Request
-### [Merged]
+### Merged
 ![](./img/Pull%20request%20merged%20successfully%20for%20Jerry.png)
 ![](./img/conflict.png)
 ![](./img/Commit%20message%20for%20merge.png)
